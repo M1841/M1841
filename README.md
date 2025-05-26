@@ -1,2 +1,2 @@
-[![Top Languages](https://github-readme-stats-six-sigma-29.vercel.app/api/top-langs/?username=m1841&langs_count=10&layout=compact&theme=github_dark_dimmed)](https://github.com/m1841/github-readme-stats#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats-six-sigma-29.vercel.app/api/top-langs/?username=m1841&langs_count=10&layout=compact)](https://github.com/m1841/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats-six-sigma-29.vercel.app/api/top-langs/?username=m1841&langs_count=12&layout=compact&theme=github_dark_dimmed)](https://github.com/m1841/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-six-sigma-29.vercel.app/api/top-langs/?username=m1841&langs_count=12&layout=compact)](https://github.com/m1841/github-readme-stats#gh-light-mode-only)
